@@ -7,7 +7,7 @@
     "canvas"
   ],
   "website": "https://lerni.dev",
-  "repository": "https://github.com/namttdh/lerni-fb-bot-news",
+  "repository": "https://github.com/dambc/bot",
   "success_url": "/welcome",
   "env": {
     "ACCESS_TOKEN": {
